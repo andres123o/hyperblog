@@ -38,4 +38,8 @@ img {
     margin-top: -13px;
     
 
+} 
+.footer {
+    padding: 0.5em;
+    background-color: violet;
 }
