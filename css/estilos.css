@@ -28,3 +28,14 @@ body {
 #container h1 {
     font-size: 30px;
 }
+
+.footer {
+   background-color: rgb(175, 33, 33);
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: whitesmoke;
+   padding: 00.5em;
+   font-weight: bold;
+
+   
+}
