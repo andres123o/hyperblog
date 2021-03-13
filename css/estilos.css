@@ -36,9 +36,10 @@ img {
     width: 50px;
     height: 50px;
     margin-top: -13px;
+}   
     
 .footer {
-   background-color: rgb(226, 72, 72);
+   background-color: rgb(58, 51, 129);
    text-align: center;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    color: whitesmoke;
